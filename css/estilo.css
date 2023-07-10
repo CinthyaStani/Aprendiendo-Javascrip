@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+   background-image: url(../img/mariposas.jpeg);
+   background-size: auto;
+}
+
+header{
+    background-color:blueviolet;
+    height: 10vh;
+}
+
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+
+main{
+    background-color: aliceblue;
+    height:1000px;
+    width: 1000px;
+    margin-left: 150px;
+}
+
+
+footer{
+    background-color:blueviolet;
+    height: 10vh;
+}
